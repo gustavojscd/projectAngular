@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "5.59"
     },
     {
       "id": 2,
@@ -19,6 +19,11 @@
       "name": "Geladeira",
       "price": "1913.99",
       "id": 4
+    },
+    {
+      "name": "formulario alterado",
+      "price": "150.12",
+      "id": 7
     }
   ]
 }
